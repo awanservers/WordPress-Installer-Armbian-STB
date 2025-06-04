@@ -44,15 +44,16 @@ Sebuah script bash interaktif untuk menginstal dan mengelola banyak situs WordPr
 
 ## 🧩 Struktur Script
 
-WordPress-Installer-Armbian-STB:
-
-├── installer.sh # Menu utama
-├── install_site.sh # Instalasi situs WordPress baru
-├── uninstall_site.sh # Hapus situs WordPress
-├── list_sites.sh # Tampilkan daftar situs
-├── config/ # Folder konfigurasi pool PHP dan nginx
-├── sites/ # Lokasi direktori situs WordPress
-└── helpers/ # Fungsi tambahan
+```bash
+WordPress-Installer-Armbian-STB/
+├── installer.sh          # Menu utama
+├── install_site.sh       # Instalasi situs WordPress baru
+├── uninstall_site.sh     # Hapus situs WordPress
+├── list_sites.sh         # Tampilkan daftar situs
+├── config/               # Folder konfigurasi pool PHP dan nginx
+├── sites/                # Lokasi direktori situs WordPress
+└── helpers/              # Fungsi tambahan
+```
 
 
 ---
