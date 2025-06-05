@@ -235,3 +235,4 @@ uninstall_wordpress() {
   read -p "Tekan Enter untuk kembali ke menu..." _
 menu
 }
+menu
