@@ -31,9 +31,9 @@ Setiap site dikonfigurasi menggunakan socket dan pool PHP-FPM tersendiri (isolas
 ## 🚀 Cara Instalasi
 
 ```bash
-wget https://raw.githubusercontent.com/awanservers/WordPress-Installer-Armbian-STB/main/install.sh
-chmod +x install.sh
-./install.sh
+wget https://raw.githubusercontent.com/awanservers/WordPress-Installer-Armbian-STB/main/wp-auto.sh
+chmod +x wp-auto.sh
+./wp-auto.sh
 ```
 
 ---
