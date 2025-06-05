@@ -10,6 +10,7 @@ Setiap site dikonfigurasi menggunakan socket dan pool PHP-FPM tersendiri (isolas
 - Instalasi WordPress full otomatis
 - Setup Nginx + MariaDB + PHP-FPM
 - Pool PHP-FPM per site (dengan socket unik)
+- Custom Port (Multisite dengan Lokal IP)
 - Validasi port, direktori, dan nama database
 - Auto-generate database name, user, dan password
 - Log instalasi tersimpan di `~/.wp_installs.log`
