@@ -105,4 +105,4 @@ Pull request dan issue terbuka untuk:
 
 ## 📄 Lisensi
 
-MIT License © 2025 [awanservers](https://github.com/awanservers)
+MIT License © 2025 [awanservers](https://www.awanservers.com)
